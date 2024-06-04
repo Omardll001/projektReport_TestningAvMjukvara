@@ -1,26 +1,14 @@
 # projektReport_TestningAvMjukvara
 
-# Final Report
+Course: PA1465 Testning av mjukvara
+Group: 7
+Contributors: 
+1. Mohamad Omar Eid Dalal (moei21@student.bth.se)
+2. Ahmad Kamal Eddin (ahka21@student.bth.se)
+3. Gubran Alshekh-Ali (gual21@student.bth.se)
 
-## Introduction
-- Overview of pickle module
-- Purpose of the testing
-
-## Test Suite
-- Description of test cases
-- Strategies and tools used
-
-## Traceability Matrix
-- Mapping of test cases to criteria
-
-## Findings
-- Results and analysis of tests
-
-## Limitations and Shortcomings
-- Discuss limitations and shortcomings
-
-## Team Contributions
-- List of team members and contributions
+## About
+This project tests the stablity of the pickle module in python by pickling different objects and test if the input and output is hash-identical.
 
 ## Repository Link
 - [GitHub Repository](https://github.com/Omardll001/projektReport_TestningAvMjukvara.git)
